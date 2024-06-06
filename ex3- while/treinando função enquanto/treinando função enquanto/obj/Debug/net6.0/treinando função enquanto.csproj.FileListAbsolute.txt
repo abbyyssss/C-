@@ -1,0 +1,15 @@
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\bin\Debug\net6.0\treinando função enquanto.exe
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\bin\Debug\net6.0\treinando função enquanto.deps.json
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\bin\Debug\net6.0\treinando função enquanto.runtimeconfig.json
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\bin\Debug\net6.0\treinando função enquanto.dll
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\bin\Debug\net6.0\treinando função enquanto.pdb
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\treinando função enquanto.csproj.AssemblyReference.cache
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\treinando função enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\treinando função enquanto.AssemblyInfoInputs.cache
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\treinando função enquanto.AssemblyInfo.cs
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\treinando função enquanto.csproj.CoreCompileInputs.cache
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\treinando função enquanto.dll
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\refint\treinando função enquanto.dll
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\treinando função enquanto.pdb
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\treinando função enquanto.genruntimeconfig.cache
+C:\Users\kauan.mcvquaresma\Desktop\csharp\C-\ex3- while\treinando função enquanto\treinando função enquanto\obj\Debug\net6.0\ref\treinando função enquanto.dll
